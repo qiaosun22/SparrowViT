@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.pyc
+cifar-10/
+*.pkl
+*.tar.gz
+*.pt
+*.pth
+
+__pycache__
